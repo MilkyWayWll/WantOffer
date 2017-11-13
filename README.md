@@ -19,9 +19,10 @@
         谢谢！
 
 ### 项目展示地址
-* 失物招领系统（已上线）
-* 电子商务导购系统（已上线）
-* 在线投票系统（已上线）
-* 在线售票系统
-* 图书馆管理系统
+* 失物招领系统（已上线） https://github.com/MilkyWayWll/LostAndFound
+* 电子商务导购系统（已上线） https://github.com/MilkyWayWll/guide
+* 在线投票系统（已上线）http://www.yuyouzheng.top:8080/ 
+                测试用户名及密码 qqq qqq   测试管理员： 123 123
+* 在线售票系统 https://github.com/MilkyWayWll/TicketSell
+* 图书馆管理系统 https://github.com/MilkyWayWll/LibrarySystem
 *
