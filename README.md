@@ -21,8 +21,8 @@
 ### 项目展示地址
 * 失物招领系统（已上线） https://github.com/MilkyWayWll/LostAndFound
 * 自主投票系统（已上线）http://www.yuyouzheng.top:8080/ 
-#### 测试用户名及密码 qqq qqq   测试管理员： 123 123
-### 详细设计文档：
+##### 测试用户名及密码 qqq qqq   测试管理员： 123 123
+##### 详细设计文档：https://github.com/MilkyWayWll/WantOffer/blob/master/%E8%87%AA%E4%B8%BB%E6%8A%95%E7%A5%A8%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.docx
 * 电子商务导购系统（已上线） https://github.com/MilkyWayWll/guide
 * 在线售票系统 https://github.com/MilkyWayWll/TicketSell
 * 图书馆管理系统 https://github.com/MilkyWayWll/LibrarySystem
